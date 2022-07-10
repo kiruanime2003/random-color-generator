@@ -1,4 +1,5 @@
 # Random color generator using vanilla javascript
+I ve used Clipboard API for copying the value to clipboard.
 
 ![](screenshot.png)
 
